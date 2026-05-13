@@ -1,0 +1,37 @@
+2026-02-27 21:52:58,512 - INFO - Starting port scanner against host: 127.0.0.1
+2026-02-27 21:52:58,513 - INFO - Target IP: 127.0.0.1
+2026-02-27 21:52:58,514 - INFO - Scanning 2 ports using up to 100 threads...
+2026-02-27 21:52:59,037 - INFO - Scan completed.
+2026-02-27 21:52:59,038 - INFO - No open ports found.
+2026-02-27 21:58:04,124 - INFO - Starting port scanner against host: google.com
+2026-02-27 21:58:04,188 - INFO - Resolved hostname google.com to IP 142.251.43.238
+2026-02-27 21:58:04,189 - INFO - Target IP: 142.251.43.238
+2026-02-27 21:58:04,190 - INFO - Scanning 3 ports using up to 500 threads...
+2026-02-27 21:58:04,274 - INFO - Port 443/tcp is OPEN
+2026-02-27 21:58:04,274 - INFO - Port 80/tcp is OPEN
+2026-02-27 21:58:04,704 - INFO - Scan completed.
+2026-02-27 21:58:04,704 - INFO - Found 2 open ports: 80, 443
+2026-02-27 22:01:53,631 - [*] Target Host: google.com
+2026-02-27 22:01:53,710 - [*] Target IP:   142.251.43.238
+2026-02-27 22:01:53,711 - [*] Scan Time:   2026-02-27 22:01:53
+2026-02-27 22:01:53,711 - [*] Scanning 2 ports with 100 threads...
+2026-02-27 22:01:53,876 -   [+] Port 443  /tcp is OPEN [https]         (86.4ms)
+2026-02-27 22:01:53,922 -   [+] Port 80   /tcp is OPEN [http]          (71.2ms) | Banner: HTTP/1.0 200 OK
+2026-02-27 22:01:53,923 - [*] Scan Completed in 0.21 seconds
+2026-02-27 22:01:53,923 - [*] Summary:
+2026-02-27 22:01:53,924 -     Total Scanned : 2
+2026-02-27 22:01:53,924 -     Open          : 2
+2026-02-27 22:01:53,925 -     Closed        : 0
+2026-02-27 22:01:53,925 -     Filtered      : 0
+2026-02-27 22:01:53,931 - 
+[*] Results saved to scan_142.251.43.238_20260227_220153.json
+2026-02-27 22:05:09,016 - [*] Target Host: youtube.com
+2026-02-27 22:05:10,550 - [*] Target IP:   172.217.24.14
+2026-02-27 22:05:10,550 - [*] Scan Time:   2026-02-27 22:05:10
+2026-02-27 22:05:10,550 - [*] Scanning 2 ports with 100 threads...
+2026-02-27 22:05:11,587 - [*] Scan Completed in 1.04 seconds
+2026-02-27 22:05:11,588 - [*] Summary:
+2026-02-27 22:05:11,588 -     Total Scanned : 2
+2026-02-27 22:05:11,589 -     Open          : 0
+2026-02-27 22:05:11,589 -     Closed        : 2
+2026-02-27 22:05:11,590 -     Filtered      : 0
